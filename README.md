@@ -12,7 +12,7 @@
 
 | 仓库 | 说明 |
 |---|---|
-| [dsh-onebot-channel](https://github.com/danshuyue/dsh-onebot-channel) | DeepSeek Harness 插件：把 QQ 私聊/群聊接进 DSH 会话，agent 直接在 QQ 里回话。OneBot 11 协议，入站走 WebSocket 事件推送。 |
+| [dsh-onebot-channel](https://github.com/danshuyue/dsh-onebot-channel) | DeepSeek Harness 插件：把 QQ 私聊/群聊接进 DSH 会话，agent 直接在 QQ 里回话。OneBot 11 协议，入站走 WebSocket 事件推送。<br>[npm](https://www.npmjs.com/package/dsh-onebot-channel) · `dsh plugin --profile desktop add dsh-onebot-channel` |
 
 ---
 
